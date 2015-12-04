@@ -1,12 +1,12 @@
 This was a project for the course ENCH686 at UMBC. We created a weight scale for a low-cost neonatal incubator using an Arduino and compatible components.
 
 These are the components we used:
-Arduino Uno
-SainSmart I2C 16x2 LCD
-Adafruit DS1307 Real Time Clock Breakout Board
-Catalex MicroSD Card Reader Board
-HX711 Board (Load Cell Amplifier/ADC)
-Phidgets 5kg load cell
+*Arduino Uno
+*SainSmart I2C 16x2 LCD
+*Adafruit DS1307 Real Time Clock Breakout Board
+*Catalex MicroSD Card Reader Board
+*HX711 Board (Load Cell Amplifier/ADC)
+*Phidgets 5kg load cell
 
 A circuit diagram is included.
 
